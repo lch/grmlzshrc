@@ -1486,9 +1486,9 @@ bind2maps emacs viins       -- -s '^xp' history-beginning-search-backward-end
 #k# search history forward for entry beginning with typed text
 bind2maps emacs viins       -- -s '^xP' history-beginning-search-forward-end
 #k# search history backward for entry beginning with typed text
-bind2maps emacs viins       -- PageUp history-beginning-search-backward-end
+bind2maps emacs viins       -- Up history-beginning-search-backward-end
 #k# search history forward for entry beginning with typed text
-bind2maps emacs viins       -- PageDown history-beginning-search-forward-end
+bind2maps emacs viins       -- Down history-beginning-search-forward-end
 bind2maps emacs viins       -- -s "^x^h" commit-to-history
 #k# Kill left-side word or everything up to next slash
 bind2maps emacs viins       -- -s '\ev' slash-backward-kill-word
